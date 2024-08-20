@@ -1,0 +1,792 @@
+absolute 绝对
+abs 绝对值
+active 激活
+add 加
+after 之后
+alert 提醒
+align 对齐
+alpha 图像通道
+angular 框架
+animate 运动
+animation 动画
+app 应用
+append 添加
+arguments 参数
+array 数组
+array.concat 数组拼接/合并数组
+array.join 数组转化为字符串
+array.pop 删除数组最后一项
+array.push 向数组最后添加一项
+array.reverse 反转/颠倒数组
+array.shift 删除数组第一位
+array.sort 数组排序
+array.splice 删除和添加数组元素
+array.unshift 向数组前面添加一项
+attach 附加
+author 作者
+auto 自动
+background-clip 背景从哪里开切
+background-origin 背景从哪里开始
+background-position 背景定位
+background-repeat 背景平铺
+background-size 背景尺寸
+background 背景
+back 返回
+banner 页面上的一个横条
+base 里面写清除默认样式的
+before 在...之前
+bind 绑定
+black 黑色
+blank 新页面打开
+blink 闪烁
+block 块
+blue 蓝色
+blur 失焦
+body 主体
+bold 粗体
+bool 布尔
+boolean 布尔
+bootstrap 开启应用模式
+border-box
+border 边框
+both 二者都是
+bottom 底部
+bounce 指数衰减的反弹缓动
+bower 工具安装组件
+box 盒子
+break 中断
+Browser-Object-Model 浏览器对象模型
+bubble 冒泡
+bug 软件程序中的错误
+building 建立
+bundle 打包
+button 按钮
+cache 缓存
+cancelBubble 取消冒泡
+capitalize 首字母大写
+case 情况
+ceil 向上取整
+center 居中
+left 居左
+right 居右
+change 改变
+charset 字符集
+checked 选中
+childNodes 子节点
+children 返回子元素
+circular 圆形曲线的缓动
+clear 清除
+click 点击事件
+client 客户
+clone 克隆
+close 关闭
+code 代码
+color 颜色
+column 列
+comment 注释
+common 公用
+complete 完成
+component 组件
+computed 计算后的
+concat 组合数组
+config 配置
+confirm 确认
+console  控制台
+constructor 创建
+contain 包含
+content 内容
+continue 继续
+controller 控制
+cookie 饼干/存储
+copyright 版权
+copy 复制
+count 次数/计数
+cover 覆盖
+createElement 创建新元素
+createTextNode 创建文本节点
+cubic 三次方的/立方的
+currency 货币
+cursor 光标
+dashed 虚线
+data 数据
+data-main 主要数据/初始化接口
+Date.now（） 从1970至今的毫秒值
+date 时间
+date:"" 时间戳转化处理
+day 日 获取需要 date
+decimal十进制
+decodeURIComponent('编码') 编码转化成中文
+decode 解码
+decoration 装饰
+default 不履行/所有情况都不满足的时候走这个
+default 不执行
+default 默认的
+define 定义
+definition 定义
+delete json.name 删除
+delete localStorage.name 删除一条
+description 介绍
+design设计
+detachEvent 删除已注册事件
+die() 解除事件委托
+directive 指令
+display 显示，css的一个属
+display 转化显示模式 元素转化
+division 分区
+document.createElement_x('标签名') 创建元素
+document/obj.addEventListener（'不加on的事件名',函数名,false） 添加事件绑定 兼容高级
+document/obj.attachEvent（'加on的事件名',函数名） 添加事件绑定 兼容IE系列
+document/obj.detachEvent（'加on的事件名',函数名） 解除事件绑定
+document/obj.readyState 加载状态
+document/obj.removeEventListener（'不加on的事件名',函数名,false） 解除事件绑定
+document.scrollLeft 和原生一样
+document.scrollTop 和原生一样
+document.write（*） 在页面中输入
+document文件，文档 dbclick 双击
+document文档
+document  文档
+DOMContentLoaded DOM加载事件
+DOMMouseScroll 鼠标滚动事件
+DOMReady 页面加载完毕后执行（代码）
+DOM 全称Document
+dotted 点线
+double 双线
+do做
+dubble 两个/两倍
+duration 期间
+each 循环
+ease-in 加速
+ease-out 减速
+easing 速度类型
+element元素
+eletment 元素
+el 'id'
+else 否则
+empty空
+encodeURIComponent('中文') 中文转化成编码
+encode 编码
+enter 进来
+equals(a,b) 比较
+eq(下标) 标签获取的下标
+error 失败
+error错误过失
+ES6模板字符串
+eval（JS可以读懂的代码 如‘1+1’->字符串） 这个代码会把（）里面的字符串换成计算机读懂的代码来计算 + - * % 都行 （计算用的）
+eval 解析字符串并运算
+eventName 事件名
+event 事件
+event/自己起行参名字.pageX X轴坐标
+event/自己起行参名字.pageY Y轴坐标
+even 事件
+eve.pageX/Y 坐标
+ev.preventDefault() 阻止默认事件 angular
+ev.stoppropagation() 阻止冒泡
+Exception 异常 意外情况（try---catch）
+expires 期限
+exponential指数曲线的缓动2.elastic 指数衰减的正弦曲线缓动
+exports 导出模块
+extend（obj，obj1，obj2。。。） 扩展
+extends 延伸 继承
+extend() 延伸
+fa5 中文
+fa5]（或十进制[19968,40869]）
+fadeIn 淡入
+fadeln 淡入
+fadeout淡出
+fadeOut 淡出
+false 不选中
+false 可用
+filter alpha（opacity 0-100）
+filter 过滤器
+find 查找
+first第一
+fixed 固定定位
+fixed 固定的
+float 浮动  left|right|none 左|右|不浮动
+floor 向下取整
+fn.apply(this的指向，[参数一，参数二，....]) 改变this的指向 fn中的this=
+fn.call(this的指向，参数一，参数二，....) 改变this的指向 fn中的this=
+fn.extend({函数名1:function(){},函数名2:function(){},...})
+fn.函数名=function(){} 建立jq封装函数
+focus 焦点
+font-family 字体
+font-family ‘微软雅黑’ 让省略号在下面
+font:italic bold 24px/24px '楷体';
+font-size 字号
+font-style: normal;取消倾斜 :italic;斜体
+font-weight normal 正常 :bold 加粗
+font字体
+font 文字
+footer 页脚
+forEach 循环
+form action="链接" method="">
+form 表单
+form表单中 submit 提交 reset 重置
+forward 向前
+frame />
+frameborder="0" 取消边框
+frameset>
+fromJson 字符串json转化成json
+from...to 从..到
+Fullyear 满年
+function 函数
+function 函数
+function函数，功能
+function 函数（方法）
+gatElementsByTagName
+gb2312/gbk 中国编码
+getAttribute 获取属性
+getDate（） 几号
+getDay（） 星期几（周一至周六）
+getElementByClassName
+getElementByld
+getElementsByName
+getFullYear（） 年份
+getHours（） 小时（0--23）
+getMilliseconds（） 毫秒数
+getMinites（） 分钟
+getMonth（） 月份（0--11）
+getSeconds（） 秒数（0--59）
+getTime（） 从1970至今的毫秒数
+get 获取
+gif一种图像格式
+gradients 渐变
+gray灰色
+green 绿色
+hack 常用于css 中的一些招数
+hand手
+head头部
+height() 就是宽度
+height高度
+height 高度
+help 帮助
+here 这里
+hidden 被隐藏
+hidden() 隐藏
+hide 隐藏
+history 历史
+history 对象
+history 浏览历史记录
+home首页
+horizontal水平的
+host主机
+hours 小时
+hover 当鼠标放上去会变颜色
+hover盘旋
+hover 移入
+hover 鼠标指针经过时的效果，或称为“悬停状态”
+http
+iframe src
+if如果
+image图像
+image 引入背景图片(url)
+important Css样式值后面加这个 权重最大
+important重要的
+include() 包含
+index
+index 改变标签z轴堆叠顺序
+index索引
+index 索引
+index 首页
+infinite 无限的
+init 开始
+inline-block 行内块
+inline行内
+inline 行内
+innerHeight/Width 物体内部的宽高 包括padding 不包括边框
+innerHeight 包括padding、不包括边框
+inner 内部的
+input{outline:none} 取消焦点
+input 当输入的时候实时触发
+input 表单 单标签
+input输入
+integer 整数
+interval
+interval 间隔
+int: 整数
+is NaN 非数字
+italic 斜体
+iteration 反复
+join 数组转化为指定分隔符
+jq
+js
+json.name=value; 添加
+JSON.parse() 可以把字符串json变成json 不过json要正规些 双引号
+JSON.stringify() json打印出来的方法
+justify 齐行
+keyCode 按键编码
+keydown 按下按键
+keyframe 关键帧
+keyup 按下按键抬起
+keywords 关键词
+last 最后
+last 最后一个
+leave 出去
+Left/top/right/bottom 定位的偏移量
+left 左边
+length 数组长度
+length 长度
+letter-spacing 具体数值 字母间距
+level 级别
+li>a li下面的第一级a
+li:eq(2) 第三个li
+li:first li第一个
+li:last li最后一个
+linear 匀速
+linear 线型的
+line-height 垂直对齐方式/行高 当行高等于高度时候垂直居中
+line-through 中划线/删除线
+line 线行
+link="{path:名字}"
+link 设置未访问时候的颜色 点击后变成a的正常颜色
+link链接
+link 链接
+list列表
+live() 事件委托
+load 下载
+localStorage.clear() 删除全部
+localStorage.getItem(name)
+localStorage.name=value 存
+localStorage.name 取
+localStorage.removeItem(name)
+localStorage.setItem(name,value)
+localStorage 本地存储
+location 地址栏对象
+logo 必须用H1引背景图片 里面写上字
+lowercase 变小写字母
+lowercase 小写
+lvha 驴哈
+main 主体
+margin-bottom 下外边距
+margin-left 左外边距
+margin-right 右外边距
+margin-top 上外边距
+margin 外边距
+margin 边界
+Math.abs() 求绝对值
+Math.ceil(12.3) 向上取整 13
+Math.floor(12.3) 向下取整 12
+Math.max(，，，) 求最大值
+Math.min(，，，) 求最小值
+Math.PI π
+Math.pow(n,m) 求n的m次方
+Math.random() 求随机数
+Math.round(a) 四舍五入
+Math.sqrt(a) 开方
+maxlength 表单元素最大长度 属性
+max 最大
+max 比较最大值
+media screen and (max-width:900px){}; 屏幕自适应
+media 媒体
+minutes 分钟
+min 最小
+min 比较最小值
+model模型
+model 模型
+module 批量导出模块，
+month 月 （从0月开始）
+mouseenter 鼠标进入
+mouseleave 鼠标离开
+name="password" 密码
+name="user" 账号
+name 名字
+navigation 导航
+navigator.language 语言
+navigator.platform 操作系统
+navigator.userAgent UA 例子判断浏览器的类型
+navigator 用于获取用户浏览器信息
+new Date() 日期对象
+new RegExp() 正则表达式
+new 新建
+next 下一个
+ng-app=""; 引用其他模块
+ng-bind="" 或 model 或 {{xxx}} 数据到哪去
+ng-clock
+ng-hide true false 隐藏 显示
+ng-init 初始化
+ng-model="" 数据从哪来
+ng-repeat 循环
+ng-show true false 显示 隐藏
+none 无/取消下划线
+no-repeat;不平铺 repeat-x;水平平铺 repeat-y;垂直平铺
+normal正常
+nth-child(下标 注意 从1开始) 注意:项目不用这个。禁用
+nth-of-type(下标 注意 从1开始) 注意:项目不用这个。禁用
+null 没有/空对象
+number 数字
+number 数字
+Number 数字
+oAjax.abort() 使中止
+oAjax.open()打开
+oAjax.readyState 是否完成/加载状态
+oAjax.responseText 返回结果
+oAjax.send() 发送
+oAjax.setRequestHeader('content-type', 'application/x-www-form-urlencoded');
+oAjax.status 是否成功
+obj1.after(obj2) 把2放在1的后面
+obj1.before(obj2) 把2放在1的前面
+obj.appendChild(谁) 往元素里面最后添加一个
+obj.children 找 儿子/子级 子节点
+obj.cloneNode() 克隆复制一个节点
+obj contains("p/内容") 内容有得‘p’ 就都会选取
+obj.disabled 让按钮/变成不可使用
+object Model文档对象模型
+object 对象
+object 对象类型
+obj even 偶数
+obj.firstElementChild ||obj.firstChild 首节点
+obj.getAttribute('属性名') 获取属性名对应的属性值
+obj has("p/标签名") 里面包含‘p’这个标签的就会选取
+obj.insertBefore(把谁，加在谁的前面) 往元素里面添加一个
+obj.lastElementChild || obj.lastChild 尾节点
+obj.nextElementSibling || obj.nextSibling 下一个同级/节点 (同级) obj.previousElementSibling || obj.prenviousSibling 上一个同级/节点
+obj odd 奇数
+obj.onreadystatechange 监控事件（模拟DOM加载事件）
+obj.on（） 可以事件绑定/委托
+obj.parentNode 找 父亲/父级 父节点
+obj.releaseCapture() 取消捕获
+obj.removeAttribute('属性名') 删除属性
+obj.removeChild(子级) 删除子级
+obj.setAttribute('属性名','属性值') 设置属性
+obj.setCapture() 开始捕获
+oblique 一种斜体
+oDate.toString() 获取正常时间
+oEvent.detail 火狐 测试鼠标滚轮向上向下弹得数字
+oEvent.keycode 键盘编码
+oEvent.preventDefoult 在事件绑定中用 阻止浏览器默认事件（如果单独用只兼容高级浏览器）
+oEvent.srcElement 事件源 非火狐
+oEvent.target 事件源 高级浏览器
+oEvent.wheelDelta 非火狐 测试鼠标滚轮向上向下弹得数字
+offsetHeight/Width 物体盒子模型的宽高
+offset().left -> getPos()
+offset().left 物体绝对的位置
+offsetparent 定位父级
+offsetParent() 定位父级
+offsetTop/Bottom/方向 物体距上/下/左/右的距离
+offset().top 物体绝对的位置 ->getPos()函数
+on
+onblur 失去焦点事件
+onblur 当失去焦点的时候
+onchange;内容改变事件
+onclick 当点击的时候
+oncontextmenu 当按右键的时候
+ondbclick 鼠标双击
+ondblclick 鼠标双击事件
+onerror 当图片加载失败时
+onfocus 当获取焦点的时候
+onfocus 获得焦点事件
+oninput 当输入的时候 iE9- 没有此方法
+onkeydown 当按键按下的时候
+onkeydown;键盘按下事件（前）
+onkeydown 键盘按下事件（前）
+onkeypress;键盘按下事件（后）
+onkeypress 键盘按下事件（后）
+onkeyup 当按键抬起的时候
+onkeyup;键盘松开事件
+onkeyup 键盘松开事件
+onload 当图片加载完成时
+onload 当页面加载完成之后触发
+onmousedown 鼠标按下时
+onmouseenter 鼠标移入
+onmouseleave 鼠标移出
+onmousemove 鼠标移动事件
+onmouseout 鼠标移出
+onmouseout 鼠标移出事件
+onmouseover 鼠标移入
+onmouseover 鼠标移入事件
+onmouseup 鼠标抬起时
+onmousewheel 鼠标滚轮事件
+onpropertychange 当属性改变的时候 IE系列
+onreadystatechange 接收/当通信状态变化
+onselect 内容被选中事件
+onUpdate 更新事件
+opacity 透明代码 1不透明（0.9 0.8.。。。。） 0透明
+opacity 透明度
+open（） 弹出一个新窗口
+open 打开
+optional 可选的
+option 选项栏
+orange 橙色
+origin 原点
+outerHeight/Width 物体盒子模型宽高
+outerHeight 整个高度
+outerHeight 盒子模型的
+outerWldth 整个宽度
+outline 外轮廓
+overflow auto 溢出滚动
+overflow:hidden 溢出隐藏
+overflow hidden 溢出隐藏
+overflow 溢出
+overline 顶划线
+padding-bottom 下内边距
+padding-box
+padding-left 左内边距
+padding-right 右内边距
+padding-top 上内边距
+padding 内边距
+padding 填充
+params 参数
+parents() 所有父级 括号里面可以筛选 比如放class名字或...
+parent() 父级
+parent 父辈
+parseFloat 浮点数/小数
+parseFloat 转化为浮点值
+parseInt（math.random()（m-n）+n） 求n-m之间随机的整数， 前包括后不包括
+parseInt 整数
+parseInt 转化为整型数值
+path 路径
+paused 暂停
+placeholder="也是提示"
+platform 返回运行浏览器的操作系统平台
+play 播放
+pop  删除最后一个数组元素
+position().left -> offsetLeft()
+position().left 物体距定位父级距离
+position relative|absolute|fixed 定位
+position().top 物体距定位父级距离 ->offsetTop
+position 位置
+post 相对安全 get 不安全
+prependTo(父级) 在父级前部追加
+prepend(子级) 在父级内的前面追加
+previous 上一个
+prev 上一个
+prompt 问答提示框
+property 属性
+props 存东西 可在替换模板身上用
+prototype 原型
+provider 提供者
+push :添加一个数组元素
+quadratic 二次方的缓动
+quartic 四次方的缓动
+querySelectorAll 一组
+querySelector 一个
+queryselector 新的获取元素方法
+quintic 五次方的缓动
+radial 放射状的
+radius 半径
+random 随机数
+React.Component
+ReactDOM.render(什么东西，渲染到哪)
+readyState 加载状态
+ready 准备好
+red 红色
+ref和正常的ID类似
+relative 相对
+relative 相对定位
+removeEventListener 事件解除
+remove 移除
+repeat 重复
+Request 请求
+require 引用其他模块
+resize none 禁止任意拖放
+resize 改变大小
+response 回答/响应
+restrict 类型 E:'element' C:'class' M:'comment' A:'attribute'
+return false 阻止浏览器右键菜单
+return false 阻止浏览器默认事件 但是在事件绑定中失效
+return 返回
+return 返回
+reverse 倒序
+right 右
+rotate 旋转
+round:四舍五入
+Router-view 状态视图
+route 路由/状态
+rowspan="3" 纵向合并
+running 运行
+scope
+scope.$watch(数据，fn)
+scope 范围 作用域
+screen.avaiheight 去掉任务栏高度
+screen.availwidth 去掉任务栏宽度
+screen.height 屏幕高度
+screen.width 屏幕宽度
+screlling="no" 取消滚动条
+scrollTop() -> scrollTop
+scroll 滚动
+scroll 滚动 有兼容问题
+seconds 秒
+select
+self 本页面打开
+service 依赖
+sessionStorage 临时存储 和localStorage一样用法
+session 一个会话（浏览器打开和关闭）
+setInterval（函数名，1000/） 间隔定时器
+setInterval 间隔时间
+setTimeout 延迟定时器
+setTimeout 延迟时间
+set 设置
+shadow 阴影
+shift  删除第一个数组元素
+showModalDialog 弹出一个模式窗口
+show 显示
+Sibling 兄弟
+silver 银色
+single 一个/一倍
+skin 皮肤
+slice 切片，划分
+slice 返回指定数组
+slideDown 滑动从上往下出来
+slideUp 滑动从下往上隐藏
+solid 固体，实线
+solution 方案
+sort 升序
+sort 排序
+span 一个HTML 标记
+splice 较接，粘接
+split 分割
+sqrt 取开方
+square 方块
+start 开始
+state 状态
+static 静态的
+status 状态
+stop 停止
+str/arr.slice（开始位置，结束位置） 切 从开始到结束 如果只有开始 就从开始到最后。 前包后不包
+str.charAt() 字符串里面的下标
+str.charCodeAt('a') 输入字符查找对应的编码
+str.indexOf(‘’) 下字符串对应的下标数（相同的就取第一个）
+String.fromCharCode(编码) 输入编码查找对应的字符
+string 字符串
+string  字符串
+str.lastIndexOf（‘’）下字符串对应的下标数（相同的就取最后一个）
+str.match 匹配
+strong 强壮，加粗的
+str.replace 替换
+str.search() 跟indexOf一样 在正则用
+str.split(切割的方式 '-' '' '空格'等) 切割变成数组
+str.substring (开始位置，结束位置)/（开始位置-不写结束位置默认就从开始位置到最后） 截取子串
+str.toLowerCase() 小写字母
+str.toUpperCase() 大写字母
+style 修饰
+style 样式
+submit 提交
+substr 截取字符串
+success 成功
+super 超类/父类
+switch
+switch 切换
+table>
+table{ border-collapse:collapse;} 让border合并
+table cellspacing="0" cellpadding="0">
+table 表格
+target=""
+tbody><tr><td>表身</td></tr></tbody>
+template.config('closeTag','')
+template.config('escape',true/false) true不默认转译 false默认转译
+template.config('openTag','')
+template.defaults.closeTag=''; 自定义模板结束样子
+template.defaults.openTag=''; 自定义模板开始样子
+templateUrl:'模板地址' 模板
+template 模板
+test（你要校验的str） true 正确满足 false 不满足 用这个的时候一定配合行首和行尾
+test 测试
+text-align 水平对齐方式
+textarea 下拉框
+text-decoration
+text-indent em 首行缩进 （LOGO名字）
+text-overflow ellipsis 省略号
+text 文本
+text 注意 这个background-clip前面要加上webkit-
+tfoot><tr><td>表低</td></tr></tfoot>
+thead><tr><th>表头</th></tr></thead>
+then 然后
+this.props.属性
+this 这个
+timeout
+Timeout 超时
+title 想说明的
+title 标题
+to.fixed 保留小数点
+toggle 切换
+toggle 点击
+token 括号
+tolocaleDatestring（） 输出本地化的日期
+tolocalestring 输出本地化的日期和时间
+tolocaleTimestring（） 输出本地化得时间
+top/right/bottom/left/center 方向英文 上、右、下、左，中
+top 顶
+transclude 嵌入
+transform 变形
+transition="名字" 过渡 动画
+transition 时间 让谁变/all ease;
+transition 过渡
+translate 转换
+transparent 透明的
+trim() 去除首尾空格
+triple 三个/三倍
+true 不可用
+true 选中
+try{} catch(e) 异常
+tr加
+type="button" 只是一个点击按钮
+type="checkbox" 复选框 label双标签 选项内容
+typeof  关键字
+typeof 查看数据类型
+type="password" 密码
+type="radio" 单选框 label双标签 选项内容
+type="submit" 提交
+type='text/babel'
+type="text" 账号/文本
+type 类型
+unbind() 事件解绑
+undefined 未定义
+undefined  未定义
+underline 下划线
+uppercase 变大写字母
+uppercase 大写
+upper 上面的
+url 网址
+user-agent 头部的值
+userAgent 返回由客户机发送服务器的
+utf-8 国际编码
+valign 上下对齐方式 top center bottom
+value="提示 如 请输入密码"
+var bFlag=false/ture 开关 自定义
+varchar 字符
+variable 变量
+var 定义变量
+vertical 竖直的
+version 版本
+veruant 变量
+video 视频
+view 视图
+visibility hidden 隐藏
+visited 设置访问过后颜色
+visited 访问过的
+vi 文件名 编文件
+vue
+watch 监控
+week 星期 获取需要day
+week 星期 获取需要day （从0到6）
+weight 加重
+white-space:nowrap 强制不换行
+white 白色
+width/.height 物体本身的宽高
+width 宽度
+window.close() 关闭
+window.history.back 返回历史记录 退
+window.history.forward 返回历史记录 前
+window.location.hash 锚点信息
+window.location.hostname 域名信息
+window.location.href 链接信息
+window.location.pathname 路径信息
+window.location.port 端口号信息
+window.location.procotol 协议信息
+window.location.reload 重新加载
+window.location.search 数据信息
+window.location 地址栏信息
+window.onload 页面加载完毕后执行（代码、资源）
+window.onresize 当缩放的时候 缩放事件
+window.onScroll 当滚动的时候 滚动事件
+window.open() 打开
+window.screen 屏幕信息
+window.status 浏览器状态栏信息
+window 窗口
+word-spacing 数值 单词间距
+wrap 包裹
+write 写入
+write 输入
+XMLHttpRequest（） ajax 创建/ 不兼容ie6-
+xxx.constructor==xxx 看构造函数 双等是判断 直接父级属不属于xxx 一个等号是赋值让直接父级等于xxx
+xxx instanceOf xxx 检测一个对象属于某个类
